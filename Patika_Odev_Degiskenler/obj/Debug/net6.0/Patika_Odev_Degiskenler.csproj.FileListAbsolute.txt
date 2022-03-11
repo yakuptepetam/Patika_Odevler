@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\bin\Debug\net6.0\Patika_Odev_Degiskenler.exe
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\bin\Debug\net6.0\Patika_Odev_Degiskenler.deps.json
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\bin\Debug\net6.0\Patika_Odev_Degiskenler.runtimeconfig.json
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\bin\Debug\net6.0\Patika_Odev_Degiskenler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\bin\Debug\net6.0\ref\Patika_Odev_Degiskenler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\bin\Debug\net6.0\Patika_Odev_Degiskenler.pdb
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\ref\Patika_Odev_Degiskenler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.pdb
+C:\Users\yakup\Desktop\Deneme\Patika_Odev_Degiskenler\Patika_Odev_Degiskenler\obj\Debug\net6.0\Patika_Odev_Degiskenler.genruntimeconfig.cache
