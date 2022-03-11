@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\bin\Debug\net6.0\Patika_Odevler_Operatorler.exe
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\bin\Debug\net6.0\Patika_Odevler_Operatorler.deps.json
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\bin\Debug\net6.0\Patika_Odevler_Operatorler.runtimeconfig.json
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\bin\Debug\net6.0\Patika_Odevler_Operatorler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\bin\Debug\net6.0\ref\Patika_Odevler_Operatorler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\bin\Debug\net6.0\Patika_Odevler_Operatorler.pdb
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\ref\Patika_Odevler_Operatorler.dll
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.pdb
+C:\Users\yakup\Desktop\Deneme\Patika_Odevler_Operatorler\Patika_Odevler_Operatorler\obj\Debug\net6.0\Patika_Odevler_Operatorler.genruntimeconfig.cache
