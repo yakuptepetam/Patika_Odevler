@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\bin\Debug\net6.0\Patika_Odev_Tip_Donusumleri.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\bin\Debug\net6.0\Patika_Odev_Tip_Donusumleri.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\bin\Debug\net6.0\Patika_Odev_Tip_Donusumleri.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\bin\Debug\net6.0\Patika_Odev_Tip_Donusumleri.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\bin\Debug\net6.0\ref\Patika_Odev_Tip_Donusumleri.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\bin\Debug\net6.0\Patika_Odev_Tip_Donusumleri.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\ref\Patika_Odev_Tip_Donusumleri.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Tip_Donusumleri\Patika_Odev_Tip_Donusumleri\obj\Debug\net6.0\Patika_Odev_Tip_Donusumleri.genruntimeconfig.cache
