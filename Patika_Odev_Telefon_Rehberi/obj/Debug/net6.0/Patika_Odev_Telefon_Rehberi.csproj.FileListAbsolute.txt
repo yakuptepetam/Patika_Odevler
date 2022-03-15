@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\bin\Debug\net6.0\Patika_Odev_Telefon_Rehberi.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\bin\Debug\net6.0\Patika_Odev_Telefon_Rehberi.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\bin\Debug\net6.0\Patika_Odev_Telefon_Rehberi.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\bin\Debug\net6.0\Patika_Odev_Telefon_Rehberi.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\bin\Debug\net6.0\ref\Patika_Odev_Telefon_Rehberi.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\bin\Debug\net6.0\Patika_Odev_Telefon_Rehberi.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\ref\Patika_Odev_Telefon_Rehberi.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Telefon_Rehberi\Patika_Odev_Telefon_Rehberi\obj\Debug\net6.0\Patika_Odev_Telefon_Rehberi.genruntimeconfig.cache
