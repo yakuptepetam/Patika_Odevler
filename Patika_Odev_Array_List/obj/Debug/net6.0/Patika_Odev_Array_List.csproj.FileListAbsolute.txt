@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\bin\Debug\net6.0\Patika_Odev_Array_List.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\bin\Debug\net6.0\Patika_Odev_Array_List.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\bin\Debug\net6.0\Patika_Odev_Array_List.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\bin\Debug\net6.0\Patika_Odev_Array_List.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\bin\Debug\net6.0\ref\Patika_Odev_Array_List.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\bin\Debug\net6.0\Patika_Odev_Array_List.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\ref\Patika_Odev_Array_List.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Array_List\Patika_Odev_Array_List\obj\Debug\net6.0\Patika_Odev_Array_List.genruntimeconfig.cache
