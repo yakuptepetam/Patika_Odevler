@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\bin\Debug\net6.0\Patika_Odev_Belirleyici.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\bin\Debug\net6.0\Patika_Odev_Belirleyici.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\bin\Debug\net6.0\Patika_Odev_Belirleyici.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\bin\Debug\net6.0\Patika_Odev_Belirleyici.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\bin\Debug\net6.0\ref\Patika_Odev_Belirleyici.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\bin\Debug\net6.0\Patika_Odev_Belirleyici.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\ref\Patika_Odev_Belirleyici.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Belirleyici\Patika_Odev_Belirleyici\obj\Debug\net6.0\Patika_Odev_Belirleyici.genruntimeconfig.cache
