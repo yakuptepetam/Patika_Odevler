@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\bin\Debug\net6.0\Patika_Odev_String_Metotlar.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\bin\Debug\net6.0\Patika_Odev_String_Metotlar.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\bin\Debug\net6.0\Patika_Odev_String_Metotlar.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\bin\Debug\net6.0\Patika_Odev_String_Metotlar.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\bin\Debug\net6.0\ref\Patika_Odev_String_Metotlar.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\bin\Debug\net6.0\Patika_Odev_String_Metotlar.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\ref\Patika_Odev_String_Metotlar.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_String_Metotlar\Patika_Odev_String_Metotlar\obj\Debug\net6.0\Patika_Odev_String_Metotlar.genruntimeconfig.cache
