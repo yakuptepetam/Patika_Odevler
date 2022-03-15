@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\bin\Debug\net6.0\Patika_Odev_Encapsulation.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\bin\Debug\net6.0\Patika_Odev_Encapsulation.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\bin\Debug\net6.0\Patika_Odev_Encapsulation.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\bin\Debug\net6.0\Patika_Odev_Encapsulation.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\bin\Debug\net6.0\ref\Patika_Odev_Encapsulation.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\bin\Debug\net6.0\Patika_Odev_Encapsulation.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\ref\Patika_Odev_Encapsulation.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Encapsulation\Patika_Odev_Encapsulation\obj\Debug\net6.0\Patika_Odev_Encapsulation.genruntimeconfig.cache
