@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\bin\Debug\net6.0\Patika_Odev_ToDo.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\bin\Debug\net6.0\Patika_Odev_ToDo.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\bin\Debug\net6.0\Patika_Odev_ToDo.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\bin\Debug\net6.0\Patika_Odev_ToDo.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\bin\Debug\net6.0\ref\Patika_Odev_ToDo.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\bin\Debug\net6.0\Patika_Odev_ToDo.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\ref\Patika_Odev_ToDo.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_ToDo\Patika_Odev_ToDo\obj\Debug\net6.0\Patika_Odev_ToDo.genruntimeconfig.cache
