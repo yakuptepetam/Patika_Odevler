@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\bin\Debug\net6.0\Patika_Odev_Class.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\bin\Debug\net6.0\Patika_Odev_Class.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\bin\Debug\net6.0\Patika_Odev_Class.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\bin\Debug\net6.0\Patika_Odev_Class.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\bin\Debug\net6.0\ref\Patika_Odev_Class.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\bin\Debug\net6.0\Patika_Odev_Class.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\ref\Patika_Odev_Class.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Class\Patika_Odev_Class\obj\Debug\net6.0\Patika_Odev_Class.genruntimeconfig.cache
