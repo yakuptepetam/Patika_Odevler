@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\bin\Debug\net6.0\Patika_Odev_Static_Sinif.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\bin\Debug\net6.0\Patika_Odev_Static_Sinif.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\bin\Debug\net6.0\Patika_Odev_Static_Sinif.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\bin\Debug\net6.0\Patika_Odev_Static_Sinif.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\bin\Debug\net6.0\ref\Patika_Odev_Static_Sinif.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\bin\Debug\net6.0\Patika_Odev_Static_Sinif.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\ref\Patika_Odev_Static_Sinif.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_Static_Sinif\Patika_Odev_Static_Sinif\obj\Debug\net6.0\Patika_Odev_Static_Sinif.genruntimeconfig.cache
