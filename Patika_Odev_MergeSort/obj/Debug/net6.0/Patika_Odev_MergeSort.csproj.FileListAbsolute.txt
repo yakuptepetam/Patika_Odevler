@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\bin\Debug\net6.0\Patika_Odev_MergeSort.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\bin\Debug\net6.0\Patika_Odev_MergeSort.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\bin\Debug\net6.0\Patika_Odev_MergeSort.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\bin\Debug\net6.0\Patika_Odev_MergeSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\bin\Debug\net6.0\ref\Patika_Odev_MergeSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\bin\Debug\net6.0\Patika_Odev_MergeSort.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\ref\Patika_Odev_MergeSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_MergeSort\Patika_Odev_MergeSort\obj\Debug\net6.0\Patika_Odev_MergeSort.genruntimeconfig.cache
