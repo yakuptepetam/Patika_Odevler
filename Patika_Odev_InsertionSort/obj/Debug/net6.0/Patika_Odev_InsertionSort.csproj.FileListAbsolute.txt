@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\bin\Debug\net6.0\Patika_Odev_InsertionSort.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\bin\Debug\net6.0\Patika_Odev_InsertionSort.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\bin\Debug\net6.0\Patika_Odev_InsertionSort.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\bin\Debug\net6.0\Patika_Odev_InsertionSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\bin\Debug\net6.0\ref\Patika_Odev_InsertionSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\bin\Debug\net6.0\Patika_Odev_InsertionSort.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\ref\Patika_Odev_InsertionSort.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_InsertionSort\Patika_Odev_InsertionSort\obj\Debug\net6.0\Patika_Odev_InsertionSort.genruntimeconfig.cache
