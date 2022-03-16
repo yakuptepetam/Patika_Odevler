@@ -1,0 +1,15 @@
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\bin\Debug\net6.0\Patika_Odev_BinarySearchTree.exe
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\bin\Debug\net6.0\Patika_Odev_BinarySearchTree.deps.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\bin\Debug\net6.0\Patika_Odev_BinarySearchTree.runtimeconfig.json
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\bin\Debug\net6.0\Patika_Odev_BinarySearchTree.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\bin\Debug\net6.0\ref\Patika_Odev_BinarySearchTree.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\bin\Debug\net6.0\Patika_Odev_BinarySearchTree.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\ref\Patika_Odev_BinarySearchTree.dll
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.pdb
+C:\Users\yakup\Desktop\Patika_Odevler\Patika_Odev_BinarySearchTree\Patika_Odev_BinarySearchTree\obj\Debug\net6.0\Patika_Odev_BinarySearchTree.genruntimeconfig.cache
